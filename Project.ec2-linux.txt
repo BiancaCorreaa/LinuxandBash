@@ -1,0 +1,9 @@
+Name: Bianca
+Date: 11/20/2025
+
+I learned how to create and edit files in Linux using text editors like nano and vi/vim.
+ I used commands like touch to create files and chmod to manage file permissions(read, write and execute).
+ I also practiced checking file permissions with ls -l and navigating the filesystem with pwd. This exercise is part of my bootcamp,
+ where I'm developing hands-on skills in Linux system administration.
+
+ 
