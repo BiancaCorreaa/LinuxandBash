@@ -17,3 +17,43 @@ This project covers basic **Linux text editing** using **nano** and **vi/vim** e
 1. **Create file**:
    ```bash
    touch class_notes.txt
+Edit file with nano:
+
+nano class_notes.txt
+
+
+Edit file with vi/vim:
+
+vi class_notes.txt
+
+File Permissions
+
+Set read-only for everyone:
+
+chmod 444 class_notes.txt
+
+
+Allow owner to write:
+
+chmod 644 class_notes.txt
+
+
+Make file executable by owner:
+
+chmod 744 class_notes.txt
+
+
+Add execute permissions for the group:
+
+chmod g+x class_notes.txt
+
+
+Revoke write access from group:
+
+chmod g-w class_notes.txt
+
+Key Skills
+
+Text Editing: Using nano and vi/vim.
+
+File Permissions: Managing access with chmod.
